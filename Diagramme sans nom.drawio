@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T07:44:05.152Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="xSOya8dh7C-Wz9Fttq-o" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T08:10:46.023Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Auzwg0V7p57NN9MS8FvO" version="23.1.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="211" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -13,7 +13,7 @@
             <mxPoint x="420" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0sbduJu9M4anClZtrmmK-12" value="Güler SORGEL &amp;amp; Bilal TURAN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="0sbduJu9M4anClZtrmmK-12" value="&lt;span style=&quot;background-color: rgb(239, 41, 41);&quot;&gt;Güler SORGEL&lt;/span&gt; &amp;amp; &lt;span style=&quot;background-color: rgb(52, 101, 164);&quot;&gt;Bilal TURAN&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="220" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0sbduJu9M4anClZtrmmK-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
@@ -28,7 +28,7 @@
             <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0sbduJu9M4anClZtrmmK-15" value="Dogan SORGEL &amp;amp; Guluzar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="0sbduJu9M4anClZtrmmK-15" value="&lt;span style=&quot;background-color: rgb(52, 101, 164);&quot;&gt;Dogan SORGEL&lt;/span&gt; &amp;amp; &lt;span style=&quot;background-color: rgb(239, 41, 41);&quot;&gt;Guluzar&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="220" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0sbduJu9M4anClZtrmmK-16" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -37,7 +37,7 @@
             <mxPoint x="420" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0sbduJu9M4anClZtrmmK-17" value="Nuran SORGEL et Cihan SIMSEK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="0sbduJu9M4anClZtrmmK-17" value="&lt;span style=&quot;background-color: rgb(239, 41, 41);&quot;&gt;Nuran SORGEL&lt;/span&gt; et &lt;span style=&quot;background-color: rgb(52, 101, 164);&quot;&gt;Cihan SIMSEK&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="220" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0sbduJu9M4anClZtrmmK-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -58,10 +58,10 @@
             <mxPoint x="680" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0sbduJu9M4anClZtrmmK-21" value="Gulnisha SORGEL et Ayhan SIMSEK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="0sbduJu9M4anClZtrmmK-21" value="&lt;span style=&quot;background-color: rgb(239, 41, 41);&quot;&gt;Gulnisha SORGEL&lt;/span&gt; et &lt;span style=&quot;background-color: rgb(52, 101, 164);&quot;&gt;Ayhan SIMSEK&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="220" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0sbduJu9M4anClZtrmmK-22" value="Öznur SORGEL et Alican OZLEM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="0sbduJu9M4anClZtrmmK-22" value="&lt;span style=&quot;background-color: rgb(239, 41, 41);&quot;&gt;Öznur SORGEL&lt;/span&gt; et &lt;font color=&quot;#3465a4&quot;&gt;Alican OZLEM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="220" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0sbduJu9M4anClZtrmmK-23" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
